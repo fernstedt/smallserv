@@ -116,16 +116,5 @@ Contributions are welcome! Feel free to open an issue or submit a pull request f
 
 ---
 
-## License
 
-WebServ is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this software.
-
----
-
-## Contact
-
-For questions or feedback, please contact [fernstedt](https://github.com/fernstedt).
-
----
-
-### Happy Serving! 🚀
+###🚀
